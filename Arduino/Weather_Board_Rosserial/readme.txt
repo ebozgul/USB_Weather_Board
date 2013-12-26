@@ -1,4 +1,4 @@
-Weather_Board_Rossinoerial.ino publishes ROS topic that contanins the weather board data. 
+Weather_Board_rosserial.ino publishes ROS topic that contanins the weather board data. 
 Note that you need rosserial to subscribe to this topic.
 
 Publisher Name: 
